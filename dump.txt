@@ -1,0 +1,2 @@
+ $env:Path = "C:\Users\hp\.local\bin;$env:Path"   (powershell)
+PS C:\Users\hp\Downloads\guardian-ai-Main\guardian-ai-Main> uv --version
